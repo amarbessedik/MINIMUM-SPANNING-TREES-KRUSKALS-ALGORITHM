@@ -1,0 +1,57 @@
+ 
+  ----jGRASP exec: java KruskalUser
+  ----   at: May 3, 2018 1:49:23 PM
+ 
+  ----jGRASP wedge: pid for wedge is 8156.
+  ----jGRASP wedge2: pid for wedge2 is 12048.
+  ----jGRASP wedge2: CLASSPATH is ";.;;.;C:\Program Files\Java\jdk1.8.0_102\jre\lib\ext\mysql-connector-java-5.1.15-bin.jar;.;C:\Program Files (x86)\jGRASP\extensions\classes".
+  ----jGRASP wedge2: working directory is [C:\Users\Amar-cs\Desktop\CSC560\Kruskals_project] platform id is 2.
+  ----jGRASP wedge2: actual command sent ["C:\Program Files\Java\jdk1.8.0_102\bin\java.exe" KruskalUser].
+  ----jGRASP wedge2: pid for process is 7524.
+ 1ST GRAPH: 
+ 
+ MINIMUM SPANNING TREE:
+ 
+ V1   V2        W 
+ -----------------
+  1    2        1
+  1    8        2
+ 10   12        3
+  4    7        3
+ 10   11        4
+  7    9        5
+  2   10        7
+  1    9       11
+  6    8       12
+  3   10       13
+  4    5       18
+ 
+ TOTAL WEIGHT: 79
+ 
+ 
+ 2ND GRAPH: 
+ 
+ MINIMUM SPANNING TREE:
+ 
+ V1   V2        W 
+ -----------------
+  7    8        5
+  5    6        7
+  8   10        7
+  3    4        9
+  1    4        9
+  1    9       11
+  2    3       12
+  4    5       12
+  4   10       36
+ 
+ TOTAL WEIGHT: 108
+ 
+ 
+ 3RD GRAPH: 
+ THE GRAPH IS NOT CONNECTED! No MST.
+ 
+ 
+  ----jGRASP wedge2: exit code for process is 0.
+  ----jGRASP: operation complete.
+  
